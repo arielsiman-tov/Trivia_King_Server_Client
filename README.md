@@ -51,11 +51,3 @@ It is possible to run two servers (or more) at the same time from one computer.
 ## Conclusion
 The Trivia Game showcases networking concepts such as UDP discovery, TCP communication, and server-client interactions. It provides an interactive and automated gaming experience suitable for multiplayer trivia sessions.
 
-## Co-Pilot/GPT
-In writing parts of the work (mainly defining the connections between server-client, UDP, TCP and the game management components) we used the Visual Studio Co-Pilot assistent.
-
-**Link to a dedicated “chat” in ChatGPT:**
-https://chat.openai.com/share/93a8460b-f034-4d58-917a-7ec8c391259c
-
-We used chat GPT mainly in the parts related to connecting the Tkinter (GUI), and defining the individual use of ANSI colors by using regex to catch complex cases.
-
